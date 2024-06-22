@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-I'm Sathya Narayanan M, a Passionate Mobile Application devloper and Photoshop designer based in India. I specialize in building Mobile Applications and love to contribution on Open Source projects
+I'm Sathya Narayanan M, a Passionate Mobile Application devloper and Photoshop designer based in India. I specialize in building Mobile Applications and love to contribution on Open Source projects.
+
+Well, I'm new to Github, looking to how to use it.
 
 Here are some ideas to get you started:
 
