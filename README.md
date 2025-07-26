@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with JavaScript and its Framework and applications
 - 💬 Ask me about .NET and Python
-- 📫 How to reach me: [sathyanaryanan1107@gmail.com](mailto:sathyanarayanan1107@gmail.com)
+- 📫 Reach me at: [sathyanaryanan1107@gmail.com](mailto:sathyanarayanan1107@gmail.com)
